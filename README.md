@@ -3,6 +3,8 @@
 This repository contains an automated data pipeline for migrating and transforming FinTech data from an **Azure SQL Database** to a **Delta Lake** architecture on **Azure Data Lake Storage (ADLS Gen2)**. The pipeline ingests, transforms, and processes data across different layers (bronze, silver, and gold), focusing on **data engineering pipeline management**.
 
 ---
+## Video Documentation
+Link: [YouTube](https://youtu.be/adW2WUgc55s)
 
 ## **Pipeline Overview**
 
