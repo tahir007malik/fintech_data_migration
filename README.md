@@ -34,6 +34,7 @@ The pipeline performs the following key tasks:
 ---
 
 ## **Pipeline Workflow**
+![Pipeline Workflow](https://github.com/tahir007malik/fintechDataMigration/blob/main/docs/fintechDataMigration-worflow.png)
 
 1. **Data Ingestion**:
    - Fetch `schema_name` and `table_name` using **Lookup Activity** from the Azure SQL database.
