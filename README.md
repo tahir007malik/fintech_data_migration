@@ -3,9 +3,6 @@
 This repository showcases scalable data pipeline designed for migrating and transforming a fintech company’s data from traditional SQL databases to Azure Data Lake. It employs a medallion architecture within ADLS Gen2 using PySpark and Delta Lake for efficient data management and processing. The project also features automated email notifications for tracking pipeline success or failure, enhancing operational visibility and responsiveness.
 
 ---
-## Video Documentation
-Link: [YouTube](https://youtu.be/adW2WUgc55s)
-
 ## **Pipeline Overview**
 
 The pipeline performs the following key tasks:
